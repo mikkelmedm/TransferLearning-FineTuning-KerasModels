@@ -2,3 +2,5 @@
 
 Notebooks wherein the VGG16 is used for transfer learning on a new dataset. 
 Also the InceptionV3 model is fine tuned to make predictions on a new dataset.
+
+InceptionV3 on the way...
